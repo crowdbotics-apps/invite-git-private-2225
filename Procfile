@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT invite_git_private_2225.wsgi:application
